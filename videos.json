@@ -1,0 +1,36 @@
+{
+  "63b1744b-d352-4cbc-a393-5c22b5423199": {
+    "name": "game 1",
+    "duration": 164.513379,
+    "width": 1280,
+    "height": 718,
+    "codec": "h264",
+    "bitrate": 1103,
+    "path": "44c5ee9e-8d15-4a59-9a1e-6c9754587b3f.mp4",
+    "thumbnails": [
+      "C:\\Users\\20cs0\\OneDrive\\Desktop\\streamsync\\backend\\thumbnails\\63b1744b-d352-4cbc-a393-5c22b5423199_thumb_0.jpg",
+      "C:\\Users\\20cs0\\OneDrive\\Desktop\\streamsync\\backend\\thumbnails\\63b1744b-d352-4cbc-a393-5c22b5423199_thumb_1.jpg",
+      "C:\\Users\\20cs0\\OneDrive\\Desktop\\streamsync\\backend\\thumbnails\\63b1744b-d352-4cbc-a393-5c22b5423199_thumb_2.jpg"
+    ],
+    "master_playlist": "C:\\Users\\20cs0\\OneDrive\\Desktop\\streamsync\\backend\\streams\\63b1744b-d352-4cbc-a393-5c22b5423199\\master.m3u8",
+    "upload_date": "2025-03-22T11:41:43.692410",
+    "original_filename": "game 1.mp4"
+  },
+  "3bf47ae8-5195-443d-99c9-5ce0aaaa6178": {
+    "name": "game 2",
+    "duration": 76.383278,
+    "width": 1280,
+    "height": 720,
+    "codec": "h264",
+    "bitrate": 971,
+    "path": "4d559516-2df0-4cba-afdb-ed27377754af.mp4",
+    "thumbnails": [
+      "C:\\Users\\20cs0\\OneDrive\\Desktop\\streamsync\\backend\\thumbnails\\3bf47ae8-5195-443d-99c9-5ce0aaaa6178_thumb_0.jpg",
+      "C:\\Users\\20cs0\\OneDrive\\Desktop\\streamsync\\backend\\thumbnails\\3bf47ae8-5195-443d-99c9-5ce0aaaa6178_thumb_1.jpg",
+      "C:\\Users\\20cs0\\OneDrive\\Desktop\\streamsync\\backend\\thumbnails\\3bf47ae8-5195-443d-99c9-5ce0aaaa6178_thumb_2.jpg"
+    ],
+    "master_playlist": "C:\\Users\\20cs0\\OneDrive\\Desktop\\streamsync\\backend\\streams\\3bf47ae8-5195-443d-99c9-5ce0aaaa6178\\master.m3u8",
+    "upload_date": "2025-03-22T11:42:31.503534",
+    "original_filename": "game 2.mp4"
+  }
+}
