@@ -719,6 +719,9 @@ def clear_videos():
             'success': False,
             'message': f'Error clearing videos: {str(e)}'
         }), 500
+@app.route("/")
+def index():
+    return "Hello, streamsync!"
 
 @app.route('/api/video/<video_id>', methods=['DELETE'])
 def delete_video(video_id):
